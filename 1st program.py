@@ -1,0 +1,6 @@
+print("hello world")
+print("vedant hande",17)
+print(5+6)
+print(10-5)
+print(5*5)
+print("this is the my first python prgram")
